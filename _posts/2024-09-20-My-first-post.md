@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World!"
 description: "I'm excited to share my days and thoughts with whoever is willing to read."
-date: 2024-09-29
+date: 2024-09-20
 feature_image: images/desk.jpg
 ---
 
